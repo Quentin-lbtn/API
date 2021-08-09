@@ -1,0 +1,3 @@
+<?php //route_name_b663a87e45d6f8d3d338afbeb642a59d
+
+return [PHP_INT_MAX, 'api_communes_get_collection'];
